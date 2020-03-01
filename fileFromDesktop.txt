@@ -3,3 +3,5 @@ Step 2 : 2nd line added from the github
 #so everything was simple and worked as expected..now let's add variation 
 Aim : To make changes to this file on the desktop and to make changes to the same file on the web and see what happens if you try to fetch and then merge 
 Step 3: 3rd line added from the desktop 
+Aim : Now I am going to make changes to the same file at both places and then try to push and see what happens
+Step 4 : 4th line from the github
